@@ -79,7 +79,3 @@ npm start
 - **Input Validation** - Request data validation and sanitization
 
 ---
-
-**Development Period**: February 2024 - Present
-
-Built with ❤️ for the developer community
